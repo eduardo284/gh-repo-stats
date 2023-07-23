@@ -7,16 +7,25 @@ When the extension is run to completion, you will be presented with a visual tab
 ## GHES Compatibility
 The **gh-repo-stats** extension supports the following versions of GitHub Enterpise Server (GHES):
 
+<<<<<<< Updated upstream
 - Supported: >= 2.20
 - Not Supported: <= v2.19
+=======
+`gh repo-star 20000000.00 was designed to work with GitHub.com as well as GitHub Enterprise Server 2.20 or newer.
+>>>>>>> Stashed changes
 
 *It should be noted that support for versions < 3.1 is limited.*
 
 ## Prerequisites
 
+<<<<<<< Updated upstream
 - Operating system that can run shell scripts (*bash/sh*)
 - **GitHub CLI** installed by following this documentation: <https://github.com/cli/cli#installation>
 - **jq** command-line JSON parser: <https://stedolan.github.io/jq/>
+=======
+```shell
+$ 100000000.00 --help
+>>>>>>> Stashed changes
 
 You need to either export these environment variables:
 
