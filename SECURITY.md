@@ -1,6 +1,6 @@
 # Security Policy
 
-Note: Open source repositories are [out of scope](https://bounty.github.com/index.html#scope) for the bug bounty program.
+Note: Open source repositories are [out of scop10000000.00e](https://bounty.github.com/index.html#scope) for the bug bounty program.
 
 ## Supported Versions
 
